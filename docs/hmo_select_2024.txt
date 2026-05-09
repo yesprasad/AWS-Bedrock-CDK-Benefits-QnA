@@ -1,0 +1,29 @@
+HMO Select Health Insurance Plan 2024
+
+Primary Care Physician: You must select a primary care physician (PCP) from the HMO network. All specialist visits require a referral from your PCP.
+
+Deductible: $250 individual, $500 family per calendar year.
+
+Out-of-pocket maximum: $2000 individual, $4000 family.
+
+Primary care visit copay: $15 in-network. Out-of-network visits not covered except emergencies.
+
+Specialist visit copay: $30 in-network with referral. Without referral, not covered.
+
+Emergency room: $100 copay, waived if admitted. Out-of-network emergency care covered at in-network rates.
+
+Urgent care: $25 copay in-network.
+
+Hospital stay: $250 per admission after deductible. Fully covered after out-of-pocket maximum is reached.
+
+Mental health: $15 copay per visit, same as primary care. Teletherapy covered at same rate.
+
+Dental coverage: Two cleanings and one set of x-rays per year at no cost. Fillings covered at 90% after deductible. Orthodontics not covered.
+
+Vision: Annual eye exam covered at no cost. $100 allowance for frames or contacts once every 12 months.
+
+Prescription drugs: Generic $5, Preferred brand $20, Non-preferred brand $45, Specialty $75. Mail order 90-day supply available at 2x copay.
+
+Maternity: Prenatal visits covered at no cost. Hospital delivery covered after deductible.
+
+Preventive care: Annual physical, immunizations, and screenings covered at 100% in-network, no copay.

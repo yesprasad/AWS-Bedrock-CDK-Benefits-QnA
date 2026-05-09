@@ -1,0 +1,25 @@
+node_modules/
+cdk.out/
+dist/
+lambda/query/build/
+lambda/query.zip
+.venv/
+
+# TypeScript compiled output
+*.js
+*.d.ts
+*.js.map
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment — never commit real values
+.env
+
+# Editor
+.vscode/
+
+# macOS
+.DS_Store
